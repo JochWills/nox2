@@ -11689,6 +11689,7 @@ pre .code {
 
 @media (max-width: 767.98px) {
   .header {
+    height: 85vh;
     padding: 50px 0;
   }
   .header .carousel {
