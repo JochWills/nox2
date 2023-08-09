@@ -11327,7 +11327,7 @@ p {
 }
 
 .navbar.nav-new .navbar-brand .brand-img {
-  content: url('/assets/imgs/logolight.png') !important;
+  content: url('/nox2/assets/imgs/logolight.png') !important;
   max-width: 250px;
 }
 
@@ -11341,7 +11341,7 @@ p {
 }
 
 .navbar.affix-top .brand-img {
-  content: url('/assets/imgs/logo.png') !important;
+  content: url('/nox2/assets/imgs/logo.png') !important;
   max-width: 250px;
 }
 
@@ -11362,7 +11362,7 @@ p {
 }
 
 .navbar.affix .navbar-brand .brand-img {
-  content: url('/assets/imgs/logolight.png') !important;
+  content: url('/nox2/assets/imgs/logolight.png') !important;
   max-width: 250px;
 }
 
